@@ -2,7 +2,7 @@
   <img src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" width="200" height="200">
 </p>
 
-# Java 2 - 2. lekce
+# Java 2 - 3. lekce
 
 
 # Java 2 - Lekce 03
